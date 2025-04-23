@@ -1,9 +1,1 @@
-## Hi there 👋
-
-- 🔭 I’m currently working on something
-- 🌱 I’m currently learning rust
-- 👯 I’m looking to collaborate on everything
-- 💬 Ask me about ...
-- 📫 How to reach me: [![telegram: @gmglbn_0](https://img.shields.io/badge/Telegram---?logo=telegram&style=for-the-badge&color=blue)](//t.me/gmglbn_0)
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: i'm a кiта
+[![telegram: @gmglbn_0](https://img.shields.io/badge/Telegram---?logo=telegram&style=for-the-badge&color=blue)](//t.me/gmglbn_0) [![wakatime](https://wakatime.com/badge/user/e01639b7-94b9-4f04-a65d-d1c605355faa.svg)](https://wakatime.com/@e01639b7-94b9-4f04-a65d-d1c605355faa)
